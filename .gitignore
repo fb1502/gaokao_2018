@@ -1,2 +1,4 @@
 font
 .ipynb_checkpoints
+.DS_Store
+map.py
